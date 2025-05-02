@@ -21,8 +21,8 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/aardnsyhs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://instagram.com/aardnsyhs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/ardiansyah-sulistyo-832a792b8/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
