@@ -25,7 +25,7 @@
   <a href="https://instagram.com/aardnsyhs" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/ardiansyah-sulistyo-832a792b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/ardiansyah-sulistyo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ardiansyahsulistyo@gmail.com">
